@@ -1,0 +1,10 @@
+[package]
+name = "weft"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+axum = "0.8.4"
+clap = "4.5.46"
+libp2p = "0.56.0"
+tokio = "1.47.1"
